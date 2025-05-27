@@ -53,8 +53,8 @@ jupyter notebook "Uber trips (1).ipynb"
 **Run all cells** to explore the data and visuals interactively.
 
 ## 📌 Example Visuals
-![](dashboard-preview.png)
-
+![Barplot](image.png)
+<img src="image.png" alt="Dashboard" width="700"/>
 ## ✅ Future Improvements
 - Predictive modeling for trip purposes
 
