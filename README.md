@@ -7,61 +7,57 @@ The dataset used is:
 My Uber Drives - 2016.csv
 ```
 It includes:
+`Trip start and end dates`
 
-Trip start and end dates
+`Travel locations`
 
-Travel locations
+`Purpose of the trip`
 
-Purpose of the trip
+`Mileage details`
 
-Mileage details
+## 🛠️ Technologies Used
+- **Python** (Pandas, NumPy)
 
-🛠️ Technologies Used
-Python (Pandas, NumPy)
+- **Visualization:** Matplotlib, Seaborn, Plotly Express
 
-Visualization: Matplotlib, Seaborn, Plotly Express
+- **Jupyter Notebook** for interactive data exploration
 
-Jupyter Notebook for interactive data exploration
+## 📊 Key Explorations
+- 📌 Number of trips per month and day
 
-📊 Key Explorations
-📌 Number of trips per month and day
+- 🕒 Trip timings and durations
 
-🕒 Trip timings and durations
+- 🗺️ Start and stop locations
 
-🗺️ Start and stop locations
+- 🚗 Trip purposes and mileage
 
-🚗 Trip purposes and mileage
+- 📈 Interactive visuals using Plotly
 
-📈 Interactive visuals using Plotly
+## ▶️ How to Run
+**Clone the repository** or download the notebook:
 
-▶️ How to Run
-Clone the repository or download the notebook:
-
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/yourusername/uber-trips-analysis.git
 cd uber-trips-analysis
-Install required libraries:
+```
+**Install required libraries:**
 
-bash
-Copy
-Edit
+```bash
 pip install pandas numpy matplotlib seaborn plotly
-Open the notebook:
+```
+**Open the notebook:**
 
-bash
-Copy
-Edit
+```bash
 jupyter notebook "Uber trips (1).ipynb"
-Run all cells to explore the data and visuals interactively.
+```
+**Run all cells** to explore the data and visuals interactively.
 
-📌 Example Visuals
+## 📌 Example Visuals
 Add screenshots here, e.g. time-series chart, purpose-based trip counts, or map visualizations using Plotly.
 
-✅ Future Improvements
-Predictive modeling for trip purposes
+## ✅ Future Improvements
+- Predictive modeling for trip purposes
 
-Geospatial mapping enhancements
+- Geospatial mapping enhancements
 
-Dash-based web dashboard
+- Dash-based web dashboard
