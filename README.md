@@ -54,7 +54,6 @@ jupyter notebook "Uber trips (1).ipynb"
 
 ## 📌 Example Visuals
 ![Barplot](image.png)
-<img src="image.png" alt="Dashboard" width="700"/>
 ## ✅ Future Improvements
 - Predictive modeling for trip purposes
 
