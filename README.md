@@ -53,7 +53,7 @@ jupyter notebook "Uber trips (1).ipynb"
 **Run all cells** to explore the data and visuals interactively.
 
 ## 📌 Example Visuals
-Add screenshots here, e.g. time-series chart, purpose-based trip counts, or map visualizations using Plotly.
+![](dashboard-preview.png)
 
 ## ✅ Future Improvements
 - Predictive modeling for trip purposes
